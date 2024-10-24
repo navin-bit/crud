@@ -1,0 +1,12 @@
+
+
+
+CRUD ---Operation
+
+GET  -  /api/employees/all  -  get all employees 
+GET - /api/employees/:id  - get employee  by  id
+POST - /api/employees/add  -  post employee 
+PUT - /api/employees/update/:id  -  update employee  by id
+DELETE - /api/employees/delete/:id  - delete employee  by id
+
+DELETE - /api/employees/delete/all  - delete all employees
